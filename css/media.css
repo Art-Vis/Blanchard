@@ -1207,7 +1207,6 @@
     flex-direction: column-reverse;
     padding-top: 19px;
     padding-bottom: 14px;
-    transform: translateX(5px);
   }
 
   .footer__logo {
